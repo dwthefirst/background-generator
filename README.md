@@ -10,8 +10,7 @@ A simple and fun web app that lets you create beautiful gradient backgrounds wit
 - Copy the CSS with one click!
 
 ## 🖼️ Screenshot
-
-![Background Generator Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
+(Coming)
 
 ## 🛠️ Tech Stack
 
@@ -22,5 +21,4 @@ A simple and fun web app that lets you create beautiful gradient backgrounds wit
 ## 🔧 How to Use
 
 1. Clone the repo:
-   ```bash
    git clone https://github.com/yourusername/background-generator.git
